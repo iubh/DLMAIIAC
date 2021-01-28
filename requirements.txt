@@ -1,0 +1,23 @@
+# For nice model representation:
+# need to instal on base system:
+# sudo apt install graphviz libgraphviz-dev graphviz-dev pkg-config
+
+#
+# PyMC3
+#
+pymc3==3.8
+
+#
+# doWhy
+#
+dowhy==0.5.1
+
+seaborn==0.11.1
+graphviz==0.16
+pygraphviz==1.6
+pgmpy==0.1.13
+
+#
+# jupyter, etc
+#
+jupyterlab==2.2.9
