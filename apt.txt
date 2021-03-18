@@ -1,0 +1,4 @@
+graphviz
+libgraphviz-dev
+graphviz-dev
+pkg-config
