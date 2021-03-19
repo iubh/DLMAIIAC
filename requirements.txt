@@ -5,7 +5,7 @@
 #
 # PyMC3
 #
-pymc3==3.8
+pymc3==3.10
 
 #
 # doWhy
@@ -13,6 +13,7 @@ pymc3==3.8
 dowhy==0.5.1
 
 seaborn==0.11.1
+arviz==0.11.0
 graphviz==0.16
 pygraphviz==1.6
 pgmpy==0.1.13
