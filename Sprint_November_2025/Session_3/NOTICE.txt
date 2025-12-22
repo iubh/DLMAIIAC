@@ -1,0 +1,5 @@
+The data "social_media_engagement_data.csv" is a modified version of the data obtained from here:
+https://www.kaggle.com/datasets/aliredaelblgihy/social-media-engagement-report
+
+Modifications are summarized in the Causal_discovery_session.ipynb
+The LICENSE "Apache 2.0" in the LICENSE file applies.

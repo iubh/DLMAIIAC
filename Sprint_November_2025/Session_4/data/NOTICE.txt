@@ -1,0 +1,6 @@
+The data in file: 
+Extended_Employee_Performance_and_Productivity_Data.csv 
+is downloaded from:
+https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data
+
+and published under the Licence "CC0: Public Domain", furhter detailed in the LICENSE file of this folder.
