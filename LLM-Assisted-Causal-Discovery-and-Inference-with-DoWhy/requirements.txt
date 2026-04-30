@@ -1,0 +1,15 @@
+jupyter
+notebook
+
+pandas
+numpy
+matplotlib
+networkx
+
+dowhy
+causal-learn
+
+openai
+
+scikit-learn
+scipy
